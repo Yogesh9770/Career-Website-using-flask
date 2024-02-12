@@ -6,7 +6,7 @@ JOBS=[{
     'id':'1',
     'tittle':'Software Developer',
     'company':'google',
-    'salary':'Rs 1,00,000'
+    'salary':'Rs 9,00,000'
 },
 {
     'id':'2',
